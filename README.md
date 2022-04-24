@@ -8,7 +8,7 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+<img src="https://github.com/SLyubar/codepath_Unit10/blob/main/MHN_Admin_Deploy.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
