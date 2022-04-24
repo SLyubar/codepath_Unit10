@@ -8,7 +8,7 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-I deployed this project using Google Cloud Platform (GCP). I created an account with free credits and then created an MHN-Admin Virtual Machine (VM) instance. I applied the required firewall rules to it and then connected to a secure shell (SSH). I did not download the Google Cloud SDK. Instead, I did all my steps within the Cloud Shell provided on the GCP website inside the browser. After installing the required MHN applications and dependencies, I was able to open the MHN-Admin portal through the browser using MHN-Admin's external IP created by GCP. Next, I created a Honeypot the below honeypot VM instance and attacked using NMAP in my Kali machine. Finally, I downloaded the attacks to a session.json file.
+I deployed this project using Google Cloud Platform (GCP). I created an account with free credits and then created an MHN-Admin Virtual Machine (VM) instance. I applied the required firewall rules to it and then connected to a secure shell (SSH). I did not download the Google Cloud SDK. Instead, I did all my steps within the Cloud Shell provided on the GCP website inside the browser. After installing the required MHN applications and dependencies, I was able to open the MHN-Admin portal through the browser using MHN-Admin's external IP created by GCP. Next, I created the below honeypot VM instance and attacked it using NMAP in my Kali machine. Finally, I downloaded all the attacks to a session.json file, which included many attacks from external parties.
 
 <img src="https://github.com/SLyubar/codepath_Unit10/blob/main/MHN_Admin_Deploy.gif">
 
