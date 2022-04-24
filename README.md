@@ -14,7 +14,7 @@
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+<img src="https://github.com/SLyubar/codepath_Unit10/blob/main/Honeypot_Deploy.gif">
 
 ### Database Backup (Required) 
 
