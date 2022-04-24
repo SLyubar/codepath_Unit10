@@ -24,7 +24,7 @@ Dionaea is an insecure server that can be accessed by external port scanners and
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-MHN-Admin used a NoSQL database called MongoDB that stores data in JSON documents insteads of rows and tables. The exported JSON file records key-value pairs with attack data such as the protocol being used, timestamp of the attack, source IP, source port, destination port, and type of honeypot used.
+MHN-Admin used a NoSQL database called MongoDB that stores data in JSON documents instead of rows and tables. The exported JSON file records key-value pairs with attack data such as the protocol being used, timestamp of the attack, source IP, source port, destination port, and type of honeypot used.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
