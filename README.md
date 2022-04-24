@@ -22,7 +22,7 @@
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
-<img src="dionaea-honeypot.gif">
+<img src="https://github.com/SLyubar/codepath_Unit10/blob/main/session.json">
 
 ## Notes
 
